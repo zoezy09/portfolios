@@ -4,7 +4,7 @@
 
 ### Project Samples
 
-[Google Merchandise Store Dashboard (Google Analytics, BigQuery, BI, Tableau)](/sample_page)
+[Google Merchandise Store Dashboard (Google Analytics, BigQuery, BI, Tableau)](https://public.tableau.com/profile/shuchang.liang#!/vizhome/GoogleAnalyticDashboard-GoogleMerchandiseStore/Dashboard)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
