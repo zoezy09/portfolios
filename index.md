@@ -4,7 +4,7 @@
 
 ### Project Samples
 
-[Project 1 Title](/sample_page)
+[Google Merchandise Store Dashboard (Google Analytics, BigQuery, BI, Tableau)](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
