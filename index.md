@@ -20,8 +20,12 @@
 <img src="images/Retention Rate.png?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Home Credit Default Risk Prediction (SQL, Machine Learning, Python)](https://github.com/shuchangliang/Projects/blob/master/Home%20Credit%20Default%20Risk.ipynb)
+-	Calculated credit-to-income ratio, average income, numbers of bad debt and refused accounts, etc. for 300,000 records using SQL.
+-	Prepared data by removing empty records and imputing missing values, and identified features correlated to defaulted accounts.
+-	Transformed categorical variables into dummy variables using one-hot encoding.
+-	Implemented and compared Logistic Regression and Random Forest models, the performance of the later method was improved by 17%.
+<img src="images/Random Forest AOC.png?raw=true"/>
 
 
 
