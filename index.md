@@ -18,7 +18,7 @@
 -	Performed customer lifetime value (CLV) analysis by using BG-NBD Model, and cohort analysis (retention over user & product lifetime).
 -	A GridSearchCV tuned Random Forest multi-class Classifier (84% accuracy) was implemented to predict the CLV classes.
 <img src="images/Retention Rate.png?raw=true"/>
-<img src="images/Probability of customer being active.png?raw=true"/>
+
 
 ---
 [Home Credit Default Risk Prediction (SQL, Machine Learning, Python)](https://github.com/shuchangliang/Projects/blob/master/Home%20Credit%20Default%20Risk.ipynb)
