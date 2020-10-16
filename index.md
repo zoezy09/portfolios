@@ -14,10 +14,11 @@
 [Online Retailer Marketing Analysis (Machine Learning, Feature Engineering, Python)](https://github.com/shuchangliang/Projects/blob/master/LTV%20%26%20Predicting%20Next%20Purchase%20Day.ipynb)
 -	Performed analysis using rollup and drill down, slice and dice, sort and rank on 1 year of historical sales data for a global online retailer to compare monthly performance (e.g., growth rate, numbers of active customers, new customer ratio and retention rate, etc.)
 -	Performed SWOT analysis on consumer marketing initiatives.
--	Used Kmeans to segment customers into 3 clusters (high, medium and low value), based on their recency, frequency and monetary values.
--	Performed cohort analysis (retention over user & product lifetime) and customer lifetime value (LTV) analysis.
--	A GridSearchCV tuned Random Forest multi-class Classifier (84% accuracy) was implemented to predict the customer’s LTV classes.
+-	Used K-means to segment customers into 3 clusters (high, medium and low value), based on their recency, frequency and monetary values.
+-	Performed customer lifetime value (CLV) analysis by using BG-NBD Model, and cohort analysis (retention over user & product lifetime).
+-	A GridSearchCV tuned Random Forest multi-class Classifier (84% accuracy) was implemented to predict the CLV classes.
 <img src="images/Retention Rate.png?raw=true"/>
+<img src="images/Probability of customer being active.png?raw=true"/>
 
 ---
 [Home Credit Default Risk Prediction (SQL, Machine Learning, Python)](https://github.com/shuchangliang/Projects/blob/master/Home%20Credit%20Default%20Risk.ipynb)
