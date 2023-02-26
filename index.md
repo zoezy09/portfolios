@@ -1,8 +1,8 @@
-## Portfolio
+## Portfolios
 
 ---
 
-### Project Samples
+### Featured Projects
 
 [Google Merchandise Store Dashboard (Google Analytics, BigQuery, BI, Tableau)](https://public.tableau.com/profile/shuchang.liang#!/vizhome/GoogleAnalyticDashboard-GoogleMerchandiseStore/Dashboard)
 - Worked with Google Merchandise Store, connected customer online behavior and conversion to sales and profitability, made recommendations with impact on business outcomes
@@ -24,6 +24,13 @@
 <img src="images/Retention Rate.png?raw=true"/>
 <img src="images/Probability of customer being active.png?raw=true"/>
 
+---
+[Retail Analytics (Power BI, Python)](https://elvisliang.notion.site/Retail-Business-Analysis-546c19a059ee415a903fdf4e5b140791)
+- The Adventure Works dataset analysis revealed that the most popular product categories are accessories, bikes, and clothing, generating a total of $23.6 million in revenue.
+- Sales from online channels have shown a significant increase over the past year, with a 15% growth rate and a total of $5.8 million in revenue generated through this channel.
+- The most profitable customer segments are from the Pacific region, generating a total of $6.2 million in revenue, followed by the South Atlantic and Mountain regions.
+- A key finding from the analysis is that the company's marketing campaign focusing on discounting products has not been effective, as the revenue generated from discounted products only accounts for 7% of the total revenue. It may be more effective to focus on other marketing strategies to increase sales.
+<img src="images/Retail Analytics.png?raw=true"/>
 
 ---
 [Home Credit Default Risk Prediction (SQL, Machine Learning, Python)](https://github.com/shuchangliang/Projects/blob/master/Home%20Credit%20Default%20Risk.ipynb)
@@ -33,12 +40,6 @@
 -	Implemented and compared Logistic Regression and Random Forest models, the performance of the later method was improved by 17%.
 <img src="images/Random Forest AOC.png?raw=true"/>
 
----
-[Post Marketing Campaign Analysis (A/B Testing, BI, SQL, Python)](https://github.com/shuchangliang/Projects/blob/master/Post%20Campaign%20Analysis%20rev.1.ipynb)
--	Acquired data from marketing campaigns of a Portugal bank, and implemented data pipeline with SQL connector in Python.
--	Visualized 10,000 campaign records in Plotly, an interactive plot enables segmentation of different campaigns and other characteristics (e.g. users per age group, valid offers per day).
--	Completed conversion and retention rate analysis, determining the most effective channel which obtained highest conversion rate (34%).
--	Applied A/B testing on the email channel, the statistical significance showed the customized emails improved marketing efficiency by 39%.
 
 
 
