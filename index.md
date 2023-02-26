@@ -5,8 +5,11 @@
 ### Project Samples
 
 [Google Merchandise Store Dashboard (Google Analytics, BigQuery, BI, Tableau)](https://public.tableau.com/profile/shuchang.liang#!/vizhome/GoogleAnalyticDashboard-GoogleMerchandiseStore/Dashboard)
--	Transformed large data from session and hit levels using Google BigQuery into a unnested, relational table (1.4-million records).
--	Built a dynamic KPI dashboard which displays monthly or yearly traffic (total sessions, average pageviews, average duration on page) per source and per location, acquisition amounts per channel, and bounce rate per page.
+- Worked with Google Merchandise Store, connected customer online behavior and conversion to sales and profitability, made recommendations with impact on business outcomes
+- Used Google Analytics, BigQuery and Data Studio to analyze data collected by JavaScript tags, measure effectiveness of marketing strategies, tell marketers what works and what doesn't
+- Determined the best digital marketing tactics to reach target audience, drive them through conversion funnel AIDA (awareness, interest, desire, action), and maximize traffic and conversions
+- Collaborated with marketers to create data-driven campaigns, measure, analyze and optimize campaign performance, gain proficiency in core digital marketing tactics including direct, display, organic search, paid search, referral, social
+- Applied Pareto principle (80/20 rule), focus on actionable head data, focus on SEO to get more free traffic, combine web data with customer and product data to find more insights, help organizations increase revenue, reduce costs, improve customer satisfaction and loyalty
 <img src="images/Google Analytics 1.png?raw=true"/>
 <img src="images/Google Analytic KPI.png?raw=true"/>
 
